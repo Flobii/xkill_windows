@@ -4,7 +4,7 @@
 
 ## Installation
  Sadly I can't make it into a .exe, so you'll have to have python for it.
-
+==ds==
  You can just run the script from the command line, or if you want to add it as a command to the terminal create a .bat file with the following content:
  ```
  python3 path/to/file/xkill.py
