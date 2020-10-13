@@ -10,3 +10,5 @@
  python3 path/to/file/xkill.py
  ```
  save as xkill.bat and put it into your ```C:\Windows\System32``` folder so it will be recognized as a command.
+Test
+: Hey
